@@ -15,12 +15,12 @@ For example\
 4 5\
 
 Query:\
-Find the shortest path distance from a to b. For example,
+Find the shortest path distance from a to b. For example,\
 2 4\
-4 3\
+4 3
 
 
 Out Put:
 3\
-2\
+2
 
