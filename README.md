@@ -21,6 +21,6 @@ Find the shortest path distance from a to b. For example,\
 
 
 Out Put:\
-3
+3\
 2
 
