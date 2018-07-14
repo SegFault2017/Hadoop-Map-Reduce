@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f81c6ab4-a2a2-489e-b3f4-d9f9e7bd0e44" name="UWaterloo" url="http://@linux.student.cs.uwaterloo.ca">
+        <fileTransfer host="@linux.student.cs.uwaterloo.ca" port="22" rootFolder="/u2/r24tan/cs348/a4" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
