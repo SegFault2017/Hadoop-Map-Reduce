@@ -12,7 +12,7 @@ For example\
 3 1\
 3 2\
 4 2\
-4 5\
+4 5
 
 Query:\
 Find the shortest path distance from a to b. For example,\
@@ -20,7 +20,7 @@ Find the shortest path distance from a to b. For example,\
 4 3
 
 
-Out Put:
-3\
+Out Put:\
+3
 2
 
