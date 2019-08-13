@@ -1,6 +1,6 @@
 # Hadoop-Map-Reduce
-Implement BFS using Hadoop Map reduce
-Compute the shortest path distance between two given nodes in a directed unweighted graph. The shortest path distance from node a to b is the minimum path length from a to b.
+Implemented BFS using Hadoop Map reduce\
+Compute the shortest path distance between two given nodes in a directed unweighted graph. The shortest path distance from node a to b is the minimum path length from a to b.\
 
 Input is listed in edge list format. Each line contains two number a  b, representing a directed edge from a to b.
 For example\
